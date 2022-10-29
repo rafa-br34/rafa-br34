@@ -65,7 +65,7 @@
 
 <h3 align="left">Support:</h3>
 <p>
-	<a href="https://www.buymeacoffee.com/rafa_br34">
+	<a href="https://www.buymeacoffee.com/rafabr34">
 		<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rafa_br34" />
 	</a>
 </p>
