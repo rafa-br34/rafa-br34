@@ -202,8 +202,8 @@ def ScanDir(DirPath):
 	return Totals, Results
 
 def TEST():
-	#T,L=ScanDir("BigLib")
-	#print(T["Language"]["Name"], T["TotalLines"])
+	T,L=ScanDir("BigLib")
+	print(T["Language"]["Name"], T["TotalLines"])
 
 
 if __name__ == "__main__":
