@@ -2,37 +2,21 @@ import sys
 import os
 import re
 import subprocess
+import PyCLOC
+from github import Github
 
 FILE_README = "README.md"
 FILE_README_TEMPLATE = "README_TEMPLATE.md"
-FOLDER_SOURCE = "BigLib/SOURCE"
+
+GithubClient = Github(os.environ["GH_ACCESS_TOKEN"])
 
 def main():
-	Result = subprocess.run(["cloc", FOLDER_SOURCE], stdout=subprocess.PIPE, text=True)
-	Lines = Result.stdout.split("\n")
-	SeparatorLine = 0
-	Matrix = []
-	for Line in Lines:
-		print(Line)
-		Span = re.search("[^-]{0,}", Line).span()
-		if Span[1] - Span[0] > 0:
-			if SeparatorLine > 1:
-				Vector = []
-				for Number in re.split("[^(\\d{0,})]", Line):
-					if len(Number) > 0:
-						Vector.append(int(Number))
-				if len(Vector) > 0:
-					Matrix.append(Vector)
-		else:
-			SeparatorLine += 1
-	Last = Matrix[-1]
-	Dictionary = {
-		"FILES_AMOUNT": Last[0],
-		"LINES_BLANK": Last[1],
-		"LINES_COMMENTS": Last[2],
-		"LINES_COUNT": Last[3],
-		"LINES_TOTAL": Last[1] + Last[2] + Last[3],
-	}
+	User = GithubClient.get_user()
+	for Repo in User.get_repos():
+		if not Repo.fork:
+			print(Repo.clone_url)
+		
+
 
 	Template = ""
 	with open(FILE_README_TEMPLATE, "r") as TemplateFile:
