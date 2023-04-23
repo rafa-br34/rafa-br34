@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm rafa_br34</h1>
-<h3 align="center">I'm a C++, Lua, PHP, JavaScript, NodeJS, And python developer interested in reverse engineering, software hacking, malware analysis, computer science, information theory, and physics.</h3>
+<h3 align="center">I'm a C++, Lua, PHP, JavaScript, NodeJS, And python developer interested in reverse engineering, hacking, malware analysis, computer science, information theory, and physics.</h3>
 
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa-br34&show_icons=true&theme=dark&locale=en&layout=compact" alt="rafa-br34" />
