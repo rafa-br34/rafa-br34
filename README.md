@@ -30,6 +30,9 @@
 	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 	</a>
+	<a href="https://cmake.org/" target="_blank" rel="noreferrer">
+		<img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Mark-1.svg" alt="cplusplus" width="40" height="40"/>
+	</a>
 	<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
 		<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 	</a>
@@ -50,9 +53,6 @@
 	</a>
 	<a href="https://www.qt.io/" target="_blank" rel="noreferrer">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
-	</a>
-	<a href="https://www.kali.org" target="_blank" rel="noreferrer">
-		<img src="https://www.kali.org/images/favicon-dark.svg" alt="kali" width="40" height="40"/>
 	</a>
 	<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
 		<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
