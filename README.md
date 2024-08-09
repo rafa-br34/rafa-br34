@@ -1,5 +1,4 @@
-<h1 align="center">Hello! I'm rafa_br34</h1>
-<h3 align="center">Codes C++, Lua, Python, (Node)JS, and a bit of (System)Verilog. Interested in machine learning, hacking, information theory, reverse engineering, computer science, and physics.</h3>
+<h3 align="center">Someone that codes C++, Lua, Python, (Node)JS, and a bit of (System)Verilog. Interested in machine learning, cyber security, information theory, reverse engineering, computer science, and physics.</h3>
 
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa-br34&show_icons=true&theme=dark&locale=en&layout=compact" alt="rafa-br34" />
@@ -12,8 +11,8 @@
 	<img src="https://komarev.com/ghpvc/?username=rafa-br34&label=Profile%20Views&color=4f46f9&style=flat-square" alt="rafa-br34" />
 </p>
 
-<h3 align="left">Socials:</h3>
-<p align="left">
+<h3 align="center">Socials</h3>
+<p align="center">
 	<a href="https://www.youtube.com/@rafa_br34" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafa_br34" height="30" width="40" />
 	</a>
@@ -21,9 +20,14 @@
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BztRQ9t67N" height="30" width="40" />
 	</a>
 </p>
+<p align="center">
+	<a href="https://discord.com/users/642064514476408832" target="blank">
+		<img align="center" src="https://discord.c99.nl/widget/theme-4/642064514476408832.png"/>
+	</a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
 	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 	</a>
@@ -52,14 +56,3 @@
 		<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
 	</a>
 </p>
-
-
-<h3 align="left">Support:</h3>
-<p>
-	<a href="https://www.buymeacoffee.com/rafabr34">
-		<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rafa_br34" />
-	</a>
-</p>
-<br><br>
-
-
