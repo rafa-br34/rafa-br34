@@ -1,4 +1,4 @@
-<h3 align="center">Someone that codes C++, Lua, Python, (Node)JS, and a bit of (System)Verilog. Interested in machine learning, cyber security, information theory, reverse engineering, computer science, and physics.</h3>
+<h3 align="center">Someone who codes C++, Lua, Python, (Node)JS, and a bit of (System)Verilog. Interested in machine learning, cyber security, information theory, reverse engineering, computer science, and physics.</h3>
 
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa-br34&show_icons=true&theme=dark&locale=en&layout=compact" alt="rafa-br34" />
