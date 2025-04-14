@@ -7,9 +7,6 @@
 	&nbsp;
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafa-br34&show_icons=true&theme=dark&locale=en" alt="rafa-br34" />
 </p>
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=rafa-br34&label=Profile%20Views&color=4f46f9&style=flat-square" alt="rafa-br34" />
-</p>
 
 <h3 align="center">Socials</h3>
 <p align="center">
