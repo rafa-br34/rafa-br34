@@ -13,7 +13,7 @@
 	<a href="https://www.youtube.com/@rafa_br34" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafa_br34" height="30" width="40" />
 	</a>
-	<a href="https://discord.gg/BztRQ9t67N" target="blank">
+	<a href="https://discord.com/users/642064514476408832" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BztRQ9t67N" height="30" width="40" />
 	</a>
 	<a href="https://steamcommunity.com/id/rafa_br34/" target="blank">
