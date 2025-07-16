@@ -95,6 +95,9 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="assets/misc/arduino.svg" alt="arduino" width="40" height="40"/>
   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="assets/languages/php.svg" alt="php" width="40" height="40"/>
+  </a>
 </p>
 
 ![Tracking](https://hit.yhype.me/github/profile?account_id=111343658)
