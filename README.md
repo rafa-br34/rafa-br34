@@ -48,7 +48,7 @@
     <img src="assets/languages/nodejs.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="assets/blender.svg" alt="blender" width="40" height="40"/>
+    <img src="assets/misc/blender.svg" alt="blender" width="40" height="40"/>
   </a>
 </p>
 <h3 align="center">Prior tech stack</h3>
