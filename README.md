@@ -2,11 +2,11 @@
 <h3 align="center">Someone who codes C++, Python, TypeScript, and a bit of (System)Verilog. Interested in machine learning, cyber security, information theory, reverse engineering, computer science, and physics.</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa-br34&show_icons=true&theme=dark&locale=en&layout=compact" alt="rafa-br34" />
+  <img align="center" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs?username=rafa-br34&show_icons=true&theme=dark&locale=en&layout=compact" alt="rafa-br34" />
 </p>
 <p align="center">
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafa-br34&show_icons=true&theme=dark&locale=en" alt="rafa-br34" />
+  <img align="center" src="https://github-readme-stats-steel-omega.vercel.app/api?username=rafa-br34&show_icons=true&theme=dark&locale=en" alt="rafa-br34" />
 </p>
 
 <h3 align="center">Socials</h3>
