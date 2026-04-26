@@ -23,7 +23,7 @@
 </p>
 <p align="center">
   <a href="https://discord.com/users/642064514476408832" target="blank">
-    <img align="center" src="https://discord.c99.nl/widget/theme-4/642064514476408832.png" alt="rafa_br34's Discord status"/>
+    <img align="center" src="https://lanyard.cnrad.dev/api/642064514476408832?theme=dark&borderRadius=4px" alt="rafa_br34's Discord status"/>
   </a>
 </p>
 
