@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<h3 align="center">The tech stack I currently use</h3>
+<h3 align="center">The tech stack that I currently use</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="assets/languages/c.svg" alt="c" width="40" height="40"/>
@@ -53,9 +53,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="assets/languages/nodejs.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://www.lua.org" target="_blank" rel="noreferrer">
-    <img src="assets/languages/lua.svg" alt="lua" width="40" height="40"/>
-  </a>
   <a href="https://www.chipverify.com/tutorials/systemverilog" target="_blank" rel="noreferrer">
     <img src="assets/languages/systemverilog.svg" alt="systemverilog" width="40" height="40"/>
   </a>
@@ -66,11 +63,17 @@
   <a href="https://gcc.gnu.org/" target="_blank" rel="noreferrer">
     <img src="assets/codegens/gcc.svg" alt="cmake" width="40" height="40"/>
   </a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+    <img src="assets/codegens/webpack.svg" alt="webpack" width="40" height="40"/>
+  </a>
   <a href="https://rollupjs.org/" target="_blank" rel="noreferrer">
     <img src="assets/codegens/rollup.svg" alt="rollupjs" width="40" height="40"/>
   </a>
   <a href="https://github.com/YosysHQ/yosys" target="_blank" rel="noreferrer">
     <img src="assets/codegens/yosys.webp" alt="yosys" width="40" height="40"/>
+  </a>
+  <a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html" target="_blank" rel="noreferrer">
+    <img src="assets/codegens/vivado.svg" alt="vivado" width="40" height="40"/>
   </a>
   </br>
   <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
@@ -82,13 +85,16 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="assets/misc/git.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="assets/misc/blender.svg" alt="blender" width="40" height="40"/>
+  <a href="http://ghidra.net/" target="_blank" rel="noreferrer">
+    <img src="assets/misc/ghidra.svg" alt="ghidra" width="40" height="40"/>
   </a>
 </p>
 
-<h3 align="center">Things I have used in the past</h3>
+<h3 align="center">Things I have used in the past or rarely use</h3>
 <p align="center">
+  <a href="https://www.lua.org" target="_blank" rel="noreferrer">
+    <img src="assets/languages/lua.svg" alt="lua" width="40" height="40"/>
+  </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="assets/misc/heroku.svg" alt="heroku" width="40" height="40"/>
   </a>
@@ -98,6 +104,10 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="assets/languages/php.svg" alt="php" width="40" height="40"/>
   </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="assets/misc/blender.svg" alt="blender" width="40" height="40"/>
+  </a>
 </p>
+
 
 ![Tracking](https://hit.yhype.me/github/profile?account_id=111343658)
