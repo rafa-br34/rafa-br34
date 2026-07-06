@@ -1,5 +1,5 @@
 <h1 align="center">Hello stranger!</h1>
-<h3 align="center">Someone who codes C++, Python, TypeScript, and a bit of (System)Verilog. Interested in machine learning, cyber security, information theory, reverse engineering, computer science, and physics.</h3>
+<h3 align="center">I'm just someone who codes C++, Python, TypeScript, and a bit of (System)Verilog. Interested in machine learning, cybersecurity, information theory, reverse engineering, computer science, and physics.</h3>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs?username=rafa-br34&show_icons=true&theme=dark&locale=en&layout=compact" alt="rafa-br34" />
